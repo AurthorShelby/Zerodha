@@ -1,0 +1,7 @@
+public static void main(string [] args){
+
+public void demo(){
+system.out.println("This is demo test for github");
+}
+
+}
